@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "FalconCraft Launcher"
 
 [ejs.landing]
 mediaGitHubURL = "#"
@@ -15,6 +15,6 @@ sourceGithubLink = "#"
 supportLink = "#"
 
 [ejs.welcome]
-welcomeHeader = "BENVENUTO/A SU HELIOS LAUNCHER"
-welcomeDescription = "Sei a pochi passi da Helios Launcher"
-welcomeDescCTA = "Copyright © 2025 HeliosLauncher"
+welcomeHeader = "BENVENUTO/A SU FALCONCRAFT LAUNCHER"
+welcomeDescription = "Sei a pochi passi da FalconCraft Launcher"
+welcomeDescCTA = "Copyright © 2025 FalconCraft"
