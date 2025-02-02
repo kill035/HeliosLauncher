@@ -1,8 +1,8 @@
-appId: 'helioslauncher'
-productName: 'Helios Launcher'
+appId: 'falconcraft-launcher'
+productName: 'FalconCraft Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2025 HeliosLauncher'
+copyright: 'Copyright © 2025 FalconCraft'
 
 asar: true
 compression: 'maximum'
